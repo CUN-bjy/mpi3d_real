@@ -6,7 +6,7 @@ For more detailed information on the dataset, please check the [original reposit
 ### Real world simple shapes (mpi3d_real)
 ![](https://github.com/rr-learning/disentanglement_dataset/blob/master/sample_gifs/real1.gif) ![](https://github.com/rr-learning/disentanglement_dataset/blob/master/sample_gifs/real2.gif)
 
-([download link]()) 
+([download link](https://huggingface.co/datasets/cun-bjy/mpi3d_real/resolve/main/mpi3d_real.npz)) 
 
 ## Reference
 [1] Gondal, Muhammad Waleed, et al. "On the transfer of inductive bias from simulation to the real world: a new disentanglement dataset." Advances in Neural Information Processing Systems 32 (2019).
